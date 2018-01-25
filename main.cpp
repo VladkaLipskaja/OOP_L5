@@ -9,7 +9,7 @@ int main()
 {
 	string s;
 	system("color F0");
-	cout << "Lipska Vlada, step C, class:Vaector, operations: +,-,*,-,*a, ==,+=,-=,*=" << endl;
+	cout << "step C, class:Vaector, operations: +,-,*,-,*a, ==,+=,-=,*=" << endl;
 	Vector v1(0, 0, 0), v2(0, 0, 0);
 	for (int i = 0; i < 6; ) {
 		try {
